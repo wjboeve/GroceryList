@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GroceryList</string>
+    <string name="show_list">Items</string>
+    <string name="rice_text">rice</string>
+    <string name="apple_text">apple</string>
+    <string name="cheese_text">cheese</string>
+    <string name="bread_text">bread</string>
+    <string name="milk_text">milk</string>
+    <string name="orange_text">oranges</string>
+    <string name="broccoli_text">broccoli</string>
+    <string name="cauliflower_text">cauliflower</string>
+    <string name="beans_text">beans</string>
+    <string name="peas_text">peas</string>
+    <string name="lettuce_text">Lettuce</string>
+    <string name="oj_text">OJ</string>
+    <string name="carrots_text">carrots</string>
+    <string name="cucumber_text">cucumber</string>
+    <string name="butter_text">butter</string>
+    <string name="eggs_text">eggs</string>
+    <string name="steak_text">Steak</string>
+    <string name="bacon_text">bacon</string>
+</resources>
